@@ -1,16 +1,12 @@
-# piano
+# Piano
 
-A new Flutter project.
+This repo contains **Dart code** for Flutter for Web which gets converted to **Javascript** for Web upon execution.
+Path to Dart file: **lib -> main.dart**
 
-## Getting Started
+The converted **Javascript** code is present in the repo: **github.com/siddharthsaini/piano**
 
-This project is a starting point for a Flutter application.
+Screenshot of the final Piano:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+  <img src="https://raw.githubusercontent.com/siddharthsaini/piano/master/piano.jpg" alt="Piano">
+</p>
